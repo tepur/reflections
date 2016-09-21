@@ -5,3 +5,7 @@ When i initialize a repository, .git folder is created; i need to do this in ord
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is "a part" of the working directory which is meant to be commited and thus added to repository; it gives you a flexible buffer between this two to make commits easier
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can look at staging area, compare it to my working directory and see what has been changed
