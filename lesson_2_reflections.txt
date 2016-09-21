@@ -13,3 +13,17 @@ I can look at staging area, compare it to my working directory and see what has 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It helps you making other versions of your program (eg. experimental ones) without interfering with this program's main changes
+
+How do the diagrams help you visualize the branch structure?
+
+It lets you look at the branch structure in a condensed and precise form
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that you get one branch which combines features added in both branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto:
+	Pros: easy, fast
+	Cons: Can make a mess in your code, or even break it
