@@ -9,3 +9,7 @@ staging area is "a part" of the working directory which is meant to be commited 
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can look at staging area, compare it to my working directory and see what has been changed
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It helps you making other versions of your program (eg. experimental ones) without interfering with this program's main changes
